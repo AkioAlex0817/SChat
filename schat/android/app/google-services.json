@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "719957090532",
+    "firebase_url": "https://blogappflutter-1fb23.firebaseio.com",
+    "project_id": "blogappflutter-1fb23",
+    "storage_bucket": "blogappflutter-1fb23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719957090532:android:68506d6e3516af93854cf1",
+        "android_client_info": {
+          "package_name": "com.hmsoft.firebase_ml_kit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719957090532-j3n2h7n6pe14rr6eblfegqa1ghmbk0g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQeuONb5-3sqatQRkAcP7KSnWeGLz4PB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719957090532-j3n2h7n6pe14rr6eblfegqa1ghmbk0g2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "719957090532-9f0u996ko9kboblpi2qags0n279t5e7n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.suena.flutterBlogApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719957090532:android:342c097bc8b2ea05854cf1",
+        "android_client_info": {
+          "package_name": "com.hmsoft.schat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719957090532-j3n2h7n6pe14rr6eblfegqa1ghmbk0g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQeuONb5-3sqatQRkAcP7KSnWeGLz4PB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719957090532-j3n2h7n6pe14rr6eblfegqa1ghmbk0g2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "719957090532-9f0u996ko9kboblpi2qags0n279t5e7n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.suena.flutterBlogApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

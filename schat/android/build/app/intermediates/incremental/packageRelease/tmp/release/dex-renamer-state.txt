@@ -1,0 +1,7 @@
+#Sat Nov 23 14:29:50 CST 2019
+base.0=E\:\\6.Flutter\\2.Work\\3.SChat\\1.Project\\schat\\android\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\6.Flutter\\2.Work\\3.SChat\\1.Project\\schat\\android\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0

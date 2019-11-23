@@ -1,0 +1,535 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:1:1-89:12
+INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:1:1-89:12
+INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:1:1-89:12
+INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:1:1-89:12
+MERGED from [:sharesdk_plugin] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\sharesdk_plugin\intermediates\library_manifest\release\AndroidManifest.xml:2:1-14:12
+MERGED from [cn.sharesdk:ShareSDK:3.6.8] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\ShareSDK-3.6.8.aar\e9ea902260100bb927ad4f05a3f00479\AndroidManifest.xml:2:1-11:12
+MERGED from [cn.sharesdk:OneKeyShare:3.6.8] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.6.8.aar\a3d1766644f615e8c3881dfdd07b2a19\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\multidex-2.0.0.aar\33ee586ac1ae9e412aa773346fb95658\AndroidManifest.xml:17:1-22:12
+MERGED from [:firebase_ml_vision] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\firebase_ml_vision\intermediates\library_manifest\release\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-24.0.0.aar\688109abf54baeca5c0d9ab70c9d19c7\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-ml-vision-face-model:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-face-model-19.0.0.aar\cba26fb7287002bb051c5c9c8cab807e\AndroidManifest.xml:2:1-9:12
+MERGED from [:file_picker] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\file_picker\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:audioplayers] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\audioplayers\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:video_player] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\video_player\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:fluttertoast] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\fluttertoast\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_webrtc] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\flutter_webrtc\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:device_info] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\device_info\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:wakelock] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\wakelock\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:adhara_socket_io] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\adhara_socket_io\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:camera] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\camera\intermediates\library_manifest\release\AndroidManifest.xml:2:1-10:12
+MERGED from [:path_provider] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\path_provider\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:google_maps_flutter] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\google_maps_flutter\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\permission_handler\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:uni_links] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\uni_links\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0.aar\0ebee0449d0f0975ff41298e25c0c14e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-17.0.0.aar\80309adb665186da3eb9f824c46b8b9d\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-vision-19.0.0.aar\fc94e45b2db8269897ea0f34c4e59f70\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-vision-image-label-18.0.1.aar\dc3ee64ad317aafd1cfa81b339faaa99\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-19.0.0.aar\f8ddfe0c0009a0e81abc9fb6536f812d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-ml-common:22.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-common-22.0.0.aar\989a2d0309107c09b2b5b200213bb26f\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-17.0.0.aar\4f73aa2cd2ecf5c772d229f19fad0e06\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-flags-17.0.0.aar\78c72e1caada0f84f530271da35e5613\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\3adfa125e2ab1c3ed61ca028969f9786\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-17.0.0.aar\34b2f0350cd922a549f77c02725ffe7c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-17.0.0.aar\4913dfde7020afd891e92e9cd0730236\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\1ec6dad9f720d8c7884ee07005200191\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\6d94fbe6ca6bcc01dcf4e3c972b3fd4f\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\8e554deffd62644d72dd311155e7c6c2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-stats-17.0.0.aar\e0720e24469acfa81318814828f82b20\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\22eb1dd38725222ffdda33fd7f1eebee\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-beta01.aar\02f6a1133ca9868f6a1967b15d3b7a46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-hls-2.9.6.aar\f504f41cfa999a3b69866e117eea7a06\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-dash-2.9.6.aar\b2627d7a801a48484a072a42af917f3d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-smoothstreaming-2.9.6.aar\d615114cc3d29083ce79f3fe96537a7e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.6.aar\dc883cf03f4d9102c6ad685e66c74834\AndroidManifest.xml:17:1-26:12
+MERGED from [org.webrtc:google-webrtc:1.0.28262] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-google-webrtc-1.0.28262.aar\a166e24d73280c507d50ee4e9086d280\AndroidManifest.xml:11:1-14:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\c16320885418896e169c2f164535d83d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-beta01.aar\f394e50d145ddbea20396827d81dc72e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-beta01.aar\990d6d5cded1274f191bae9816e411f4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\4be9e36be3fff44521916d436cf0a0cd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\795e2b3d3303c3c37de9e731e0c66e6c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\474ef06c9f07488f2bf93f53536fa686\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\12d9f740f0485d97b3606b971e169e80\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\1537d9c8e7031085ff984ad343f1f310\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\b3068c3ab8f97bb4dcaef60bd31bd51c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\213a60151518f6e546af1476f0d3daf3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4fd5e1eab0eeeee425ad0d8e05232b01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\1319d56c25d99c72bf3288ee8cdb2b32\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\6cd2d0ee96ffbd5e877bd2d4c4f1a42a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\c8bc1e520a82a53cdbd20fe75dcfaf1e\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\baafdc3beeb4a943e735548b18a9ef77\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\ee2e2c0367c3f27f31b18fb8413a2469\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\06f8db1b470008f093357ccc4fee4eff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\1c382985feb92ebd00af8a25dedda281\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\0ff21acf29314886fec1082765263156\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\856ccfa6531ad8f8a15cf3a02bfe1b8c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\b23c080c64c2ce817160f7022628a2c5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\c5de0780c23f556ad7521b6f8744aafc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\21cbc590e2048386bcb7ae33022a767c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\e24fa80bae83e09fd9840bceb8e149e1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\4dae0a6b0d25102f26006b80e120352a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.2.aar\f0b5d9d7e64ef78e189f9170eaea1fe2\AndroidManifest.xml:2:1-11:12
+INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:1:1-89:12
+INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:1:1-89:12
+INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:1:1-89:12
+	package
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:2:5-31
+		INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:1:1-89:12
+		INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:1:1-89:12
+		INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-feature#android.hardware.camera
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:4:5-60
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:4:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:5:5-70
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:5:19-67
+uses-permission#android.permission.INTERNET
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:10:5-66
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\3adfa125e2ab1c3ed61ca028969f9786\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\3adfa125e2ab1c3ed61ca028969f9786\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:13:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:14:5-72
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:14:22-70
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:15:5-70
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:15:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:18:5-79
+MERGED from [:file_picker] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\file_picker\intermediates\library_manifest\release\AndroidManifest.xml:7:5-80
+MERGED from [:file_picker] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\file_picker\intermediates\library_manifest\release\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:18:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.CAMERA
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:22:5-64
+MERGED from [:camera] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\camera\intermediates\library_manifest\release\AndroidManifest.xml:7:5-65
+MERGED from [:camera] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\camera\intermediates\library_manifest\release\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:22:22-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:26:22-78
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:27:5-85
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:27:22-82
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:30:5-71
+MERGED from [:camera] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\camera\intermediates\library_manifest\release\AndroidManifest.xml:8:5-71
+MERGED from [:camera] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\camera\intermediates\library_manifest\release\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:30:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:33:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\3adfa125e2ab1c3ed61ca028969f9786\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\3adfa125e2ab1c3ed61ca028969f9786\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.6.aar\dc883cf03f4d9102c6ad685e66c74834\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.6.aar\dc883cf03f4d9102c6ad685e66c74834\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:33:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:34:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:35:5-80
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:35:22-77
+application
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:42:5-88:19
+MERGED from [:sharesdk_plugin] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\sharesdk_plugin\intermediates\library_manifest\release\AndroidManifest.xml:11:5-12:19
+MERGED from [:sharesdk_plugin] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\sharesdk_plugin\intermediates\library_manifest\release\AndroidManifest.xml:11:5-12:19
+MERGED from [:firebase_ml_vision] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\firebase_ml_vision\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_ml_vision] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\firebase_ml_vision\intermediates\library_manifest\release\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-24.0.0.aar\688109abf54baeca5c0d9ab70c9d19c7\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-24.0.0.aar\688109abf54baeca5c0d9ab70c9d19c7\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-ml-vision-face-model:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-face-model-19.0.0.aar\cba26fb7287002bb051c5c9c8cab807e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ml-vision-face-model:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-face-model-19.0.0.aar\cba26fb7287002bb051c5c9c8cab807e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-vision-19.0.0.aar\fc94e45b2db8269897ea0f34c4e59f70\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-vision-19.0.0.aar\fc94e45b2db8269897ea0f34c4e59f70\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-vision-image-label-18.0.1.aar\dc3ee64ad317aafd1cfa81b339faaa99\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-vision-image-label-18.0.1.aar\dc3ee64ad317aafd1cfa81b339faaa99\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-19.0.0.aar\f8ddfe0c0009a0e81abc9fb6536f812d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-19.0.0.aar\f8ddfe0c0009a0e81abc9fb6536f812d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ml-common:22.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-common-22.0.0.aar\989a2d0309107c09b2b5b200213bb26f\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-ml-common:22.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-common-22.0.0.aar\989a2d0309107c09b2b5b200213bb26f\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-17.0.0.aar\4f73aa2cd2ecf5c772d229f19fad0e06\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-17.0.0.aar\4f73aa2cd2ecf5c772d229f19fad0e06\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\3adfa125e2ab1c3ed61ca028969f9786\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\3adfa125e2ab1c3ed61ca028969f9786\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-17.0.0.aar\34b2f0350cd922a549f77c02725ffe7c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-17.0.0.aar\34b2f0350cd922a549f77c02725ffe7c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-17.0.0.aar\4913dfde7020afd891e92e9cd0730236\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-17.0.0.aar\4913dfde7020afd891e92e9cd0730236\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\1ec6dad9f720d8c7884ee07005200191\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\1ec6dad9f720d8c7884ee07005200191\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\6d94fbe6ca6bcc01dcf4e3c972b3fd4f\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\6d94fbe6ca6bcc01dcf4e3c972b3fd4f\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\8e554deffd62644d72dd311155e7c6c2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\8e554deffd62644d72dd311155e7c6c2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-stats-17.0.0.aar\e0720e24469acfa81318814828f82b20\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-stats-17.0.0.aar\e0720e24469acfa81318814828f82b20\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\22eb1dd38725222ffdda33fd7f1eebee\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\22eb1dd38725222ffdda33fd7f1eebee\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\c8bc1e520a82a53cdbd20fe75dcfaf1e\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\c8bc1e520a82a53cdbd20fe75dcfaf1e\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\baafdc3beeb4a943e735548b18a9ef77\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\baafdc3beeb4a943e735548b18a9ef77\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.2.aar\f0b5d9d7e64ef78e189f9170eaea1fe2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.2.aar\f0b5d9d7e64ef78e189f9170eaea1fe2\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\c8bc1e520a82a53cdbd20fe75dcfaf1e\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:44:9-30
+	android:icon
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:46:9-45
+	android:usesCleartextTraffic
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:45:9-44
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:43:9-57
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:47:9-123
+	android:value
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:47:66-121
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:47:20-65
+activity#com.hmsoft.schat.MainActivity
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:48:9-87:20
+	android:launchMode
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:50:13-43
+	android:hardwareAccelerated
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:53:13-47
+	android:windowSoftInputMode
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:54:13-55
+	android:configChanges
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:52:13-144
+	android:theme
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:51:13-47
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:49:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:59:13-61:40
+	android:value
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:61:17-37
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:60:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:62:13-65:29
+action#android.intent.action.MAIN
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:63:17-68
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:63:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:64:17-76
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:64:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:schat.hmsoft.com+data:pathPrefix:/call+data:scheme:schat
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:67:13-75:29
+action#android.intent.action.VIEW
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:68:17-69
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:68:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:69:17-76
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:69:27-73
+category#android.intent.category.BROWSABLE
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:70:17-78
+	android:name
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:70:27-75
+data
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:71:17-74:55
+	android:host
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:74:21-52
+	android:scheme
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:72:21-43
+	android:pathPrefix
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:73:21-47
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:schat.hmsoft.com+data:pathPrefix:/call+data:scheme:http
+ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml:78:13-86:29
+uses-sdk
+INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml
+MERGED from [:sharesdk_plugin] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\sharesdk_plugin\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:sharesdk_plugin] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\sharesdk_plugin\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.sharesdk:ShareSDK:3.6.8] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\ShareSDK-3.6.8.aar\e9ea902260100bb927ad4f05a3f00479\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.sharesdk:ShareSDK:3.6.8] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\ShareSDK-3.6.8.aar\e9ea902260100bb927ad4f05a3f00479\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.sharesdk:OneKeyShare:3.6.8] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.6.8.aar\a3d1766644f615e8c3881dfdd07b2a19\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.sharesdk:OneKeyShare:3.6.8] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\OneKeyShare-3.6.8.aar\a3d1766644f615e8c3881dfdd07b2a19\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\multidex-2.0.0.aar\33ee586ac1ae9e412aa773346fb95658\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\multidex-2.0.0.aar\33ee586ac1ae9e412aa773346fb95658\AndroidManifest.xml:20:5-43
+MERGED from [:firebase_ml_vision] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\firebase_ml_vision\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_ml_vision] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\firebase_ml_vision\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-24.0.0.aar\688109abf54baeca5c0d9ab70c9d19c7\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-24.0.0.aar\688109abf54baeca5c0d9ab70c9d19c7\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision-face-model:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-face-model-19.0.0.aar\cba26fb7287002bb051c5c9c8cab807e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-vision-face-model:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-face-model-19.0.0.aar\cba26fb7287002bb051c5c9c8cab807e\AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\file_picker\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\file_picker\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:audioplayers] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\audioplayers\intermediates\library_manifest\release\AndroidManifest.xml:7:5-44
+MERGED from [:audioplayers] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\audioplayers\intermediates\library_manifest\release\AndroidManifest.xml:7:5-44
+MERGED from [:video_player] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\video_player\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:video_player] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\video_player\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\fluttertoast\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\fluttertoast\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webrtc] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\flutter_webrtc\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webrtc] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\flutter_webrtc\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:device_info] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\device_info\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:device_info] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\device_info\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\wakelock\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\wakelock\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:adhara_socket_io] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\adhara_socket_io\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:adhara_socket_io] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\adhara_socket_io\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:camera] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\camera\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:camera] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\camera\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\path_provider\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\path_provider\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\google_maps_flutter\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\google_maps_flutter\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\permission_handler\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\permission_handler\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:uni_links] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\uni_links\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:uni_links] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\uni_links\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0.aar\0ebee0449d0f0975ff41298e25c0c14e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0.aar\0ebee0449d0f0975ff41298e25c0c14e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-17.0.0.aar\80309adb665186da3eb9f824c46b8b9d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-17.0.0.aar\80309adb665186da3eb9f824c46b8b9d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-vision-19.0.0.aar\fc94e45b2db8269897ea0f34c4e59f70\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-vision-19.0.0.aar\fc94e45b2db8269897ea0f34c4e59f70\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-vision-image-label-18.0.1.aar\dc3ee64ad317aafd1cfa81b339faaa99\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-vision-image-label-18.0.1.aar\dc3ee64ad317aafd1cfa81b339faaa99\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-19.0.0.aar\f8ddfe0c0009a0e81abc9fb6536f812d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-19.0.0.aar\f8ddfe0c0009a0e81abc9fb6536f812d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-common:22.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-common-22.0.0.aar\989a2d0309107c09b2b5b200213bb26f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-common:22.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-common-22.0.0.aar\989a2d0309107c09b2b5b200213bb26f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-17.0.0.aar\4f73aa2cd2ecf5c772d229f19fad0e06\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-17.0.0.aar\4f73aa2cd2ecf5c772d229f19fad0e06\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-flags-17.0.0.aar\78c72e1caada0f84f530271da35e5613\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-flags-17.0.0.aar\78c72e1caada0f84f530271da35e5613\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\3adfa125e2ab1c3ed61ca028969f9786\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\3adfa125e2ab1c3ed61ca028969f9786\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-17.0.0.aar\34b2f0350cd922a549f77c02725ffe7c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-17.0.0.aar\34b2f0350cd922a549f77c02725ffe7c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-17.0.0.aar\4913dfde7020afd891e92e9cd0730236\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-17.0.0.aar\4913dfde7020afd891e92e9cd0730236\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\1ec6dad9f720d8c7884ee07005200191\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\1ec6dad9f720d8c7884ee07005200191\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\6d94fbe6ca6bcc01dcf4e3c972b3fd4f\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\6d94fbe6ca6bcc01dcf4e3c972b3fd4f\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\8e554deffd62644d72dd311155e7c6c2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\8e554deffd62644d72dd311155e7c6c2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-stats-17.0.0.aar\e0720e24469acfa81318814828f82b20\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-stats-17.0.0.aar\e0720e24469acfa81318814828f82b20\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\22eb1dd38725222ffdda33fd7f1eebee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\22eb1dd38725222ffdda33fd7f1eebee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-beta01.aar\02f6a1133ca9868f6a1967b15d3b7a46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0-beta01.aar\02f6a1133ca9868f6a1967b15d3b7a46\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-hls-2.9.6.aar\f504f41cfa999a3b69866e117eea7a06\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-hls-2.9.6.aar\f504f41cfa999a3b69866e117eea7a06\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-dash-2.9.6.aar\b2627d7a801a48484a072a42af917f3d\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-dash-2.9.6.aar\b2627d7a801a48484a072a42af917f3d\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-smoothstreaming-2.9.6.aar\d615114cc3d29083ce79f3fe96537a7e\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-smoothstreaming-2.9.6.aar\d615114cc3d29083ce79f3fe96537a7e\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.6.aar\dc883cf03f4d9102c6ad685e66c74834\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.6.aar\dc883cf03f4d9102c6ad685e66c74834\AndroidManifest.xml:20:5-22:41
+MERGED from [org.webrtc:google-webrtc:1.0.28262] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-google-webrtc-1.0.28262.aar\a166e24d73280c507d50ee4e9086d280\AndroidManifest.xml:13:3-72
+MERGED from [org.webrtc:google-webrtc:1.0.28262] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-google-webrtc-1.0.28262.aar\a166e24d73280c507d50ee4e9086d280\AndroidManifest.xml:13:3-72
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\c16320885418896e169c2f164535d83d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\c16320885418896e169c2f164535d83d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-beta01.aar\f394e50d145ddbea20396827d81dc72e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0-beta01.aar\f394e50d145ddbea20396827d81dc72e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-beta01.aar\990d6d5cded1274f191bae9816e411f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0-beta01.aar\990d6d5cded1274f191bae9816e411f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\4be9e36be3fff44521916d436cf0a0cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\4be9e36be3fff44521916d436cf0a0cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\795e2b3d3303c3c37de9e731e0c66e6c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\795e2b3d3303c3c37de9e731e0c66e6c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\474ef06c9f07488f2bf93f53536fa686\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\474ef06c9f07488f2bf93f53536fa686\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\12d9f740f0485d97b3606b971e169e80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\12d9f740f0485d97b3606b971e169e80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\1537d9c8e7031085ff984ad343f1f310\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\1537d9c8e7031085ff984ad343f1f310\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\b3068c3ab8f97bb4dcaef60bd31bd51c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\b3068c3ab8f97bb4dcaef60bd31bd51c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\213a60151518f6e546af1476f0d3daf3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\213a60151518f6e546af1476f0d3daf3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4fd5e1eab0eeeee425ad0d8e05232b01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4fd5e1eab0eeeee425ad0d8e05232b01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\1319d56c25d99c72bf3288ee8cdb2b32\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\1319d56c25d99c72bf3288ee8cdb2b32\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\6cd2d0ee96ffbd5e877bd2d4c4f1a42a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\6cd2d0ee96ffbd5e877bd2d4c4f1a42a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\c8bc1e520a82a53cdbd20fe75dcfaf1e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\c8bc1e520a82a53cdbd20fe75dcfaf1e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\baafdc3beeb4a943e735548b18a9ef77\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\baafdc3beeb4a943e735548b18a9ef77\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\ee2e2c0367c3f27f31b18fb8413a2469\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\ee2e2c0367c3f27f31b18fb8413a2469\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\06f8db1b470008f093357ccc4fee4eff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\06f8db1b470008f093357ccc4fee4eff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\1c382985feb92ebd00af8a25dedda281\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\1c382985feb92ebd00af8a25dedda281\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\0ff21acf29314886fec1082765263156\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\0ff21acf29314886fec1082765263156\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\856ccfa6531ad8f8a15cf3a02bfe1b8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\856ccfa6531ad8f8a15cf3a02bfe1b8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\b23c080c64c2ce817160f7022628a2c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\b23c080c64c2ce817160f7022628a2c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\c5de0780c23f556ad7521b6f8744aafc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\c5de0780c23f556ad7521b6f8744aafc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\21cbc590e2048386bcb7ae33022a767c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\21cbc590e2048386bcb7ae33022a767c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\e24fa80bae83e09fd9840bceb8e149e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\e24fa80bae83e09fd9840bceb8e149e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\4dae0a6b0d25102f26006b80e120352a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\4dae0a6b0d25102f26006b80e120352a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.2.aar\f0b5d9d7e64ef78e189f9170eaea1fe2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.2.aar\f0b5d9d7e64ef78e189f9170eaea1fe2\AndroidManifest.xml:5:5-7:41
+INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_ml_vision] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\firebase_ml_vision\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-24.0.0.aar\688109abf54baeca5c0d9ab70c9d19c7\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-24.0.0.aar\688109abf54baeca5c0d9ab70c9d19c7\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-ml-common:22.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-common-22.0.0.aar\989a2d0309107c09b2b5b200213bb26f\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-ml-common:22.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-common-22.0.0.aar\989a2d0309107c09b2b5b200213bb26f\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-ml-vision:24.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-24.0.0.aar\688109abf54baeca5c0d9ab70c9d19c7\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:firebase_ml_vision] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\firebase_ml_vision\intermediates\library_manifest\release\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebasemlvision.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_ml_vision] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\firebase_ml_vision\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_ml_vision] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\firebase_ml_vision\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_ml_vision] E:\6.Flutter\2.Work\3.SChat\1.Project\schat\android\build\firebase_ml_vision\intermediates\library_manifest\release\AndroidManifest.xml:10:17-126
+meta-data#com.google.firebase.components:com.google.firebase.ml.vision.VisionRegistrar
+ADDED from [com.google.firebase:firebase-ml-vision:24.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-24.0.0.aar\688109abf54baeca5c0d9ab70c9d19c7\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-ml-vision:24.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-24.0.0.aar\688109abf54baeca5c0d9ab70c9d19c7\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-ml-vision:24.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-24.0.0.aar\688109abf54baeca5c0d9ab70c9d19c7\AndroidManifest.xml:13:17-108
+meta-data#com.google.firebase.components:com.google.firebase.ml.common.CommonComponentRegistrar
+ADDED from [com.google.firebase:firebase-ml-common:22.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-common-22.0.0.aar\989a2d0309107c09b2b5b200213bb26f\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-ml-common:22.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-common-22.0.0.aar\989a2d0309107c09b2b5b200213bb26f\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-ml-common:22.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-ml-common-22.0.0.aar\989a2d0309107c09b2b5b200213bb26f\AndroidManifest.xml:12:17-117
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\3adfa125e2ab1c3ed61ca028969f9786\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\3adfa125e2ab1c3ed61ca028969f9786\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\3adfa125e2ab1c3ed61ca028969f9786\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\3adfa125e2ab1c3ed61ca028969f9786\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\3adfa125e2ab1c3ed61ca028969f9786\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\3adfa125e2ab1c3ed61ca028969f9786\AndroidManifest.xml:34:13-50
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-iid-19.0.0.aar\c6080e7d219e250524b6238f16aba288\AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\1ec6dad9f720d8c7884ee07005200191\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\1ec6dad9f720d8c7884ee07005200191\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\1ec6dad9f720d8c7884ee07005200191\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\1ec6dad9f720d8c7884ee07005200191\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\6d94fbe6ca6bcc01dcf4e3c972b3fd4f\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\6d94fbe6ca6bcc01dcf4e3c972b3fd4f\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\6d94fbe6ca6bcc01dcf4e3c972b3fd4f\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\6d94fbe6ca6bcc01dcf4e3c972b3fd4f\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\firebase-common-19.0.0.aar\6d94fbe6ca6bcc01dcf4e3c972b3fd4f\AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\22eb1dd38725222ffdda33fd7f1eebee\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\22eb1dd38725222ffdda33fd7f1eebee\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Alex\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\22eb1dd38725222ffdda33fd7f1eebee\AndroidManifest.xml:24:13-58
